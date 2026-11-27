@@ -43,4 +43,3 @@ python -m ruff check .
 
 Easy, medium, and hard answers are worth 1, 2, and 3 points. Invalid input and
 missing or broken files are handled without a traceback.
-# CS105BKK-final-project
