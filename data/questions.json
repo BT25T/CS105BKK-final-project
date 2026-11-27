@@ -1,0 +1,86 @@
+[
+  {
+    "text": "What is the capital of Thailand?",
+    "choices": ["Bangkok", "Chiang Mai", "Phuket", "Khon Kaen"],
+    "correct_index": 0,
+    "category": "Geography",
+    "level": "easy"
+  },
+  {
+    "text": "Which ocean is the largest?",
+    "choices": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "correct_index": 2,
+    "category": "Geography",
+    "level": "easy"
+  },
+  {
+    "text": "Which country has the city of Kyoto?",
+    "choices": ["China", "Japan", "South Korea", "Vietnam"],
+    "correct_index": 1,
+    "category": "Geography",
+    "level": "medium"
+  },
+  {
+    "text": "What does CPU stand for?",
+    "choices": ["Central Processing Unit", "Computer Personal Unit", "Core Program Utility", "Central Power User"],
+    "correct_index": 0,
+    "category": "Technology",
+    "level": "easy"
+  },
+  {
+    "text": "Which protocol normally secures websites?",
+    "choices": ["FTP", "HTTP", "HTTPS", "SMTP"],
+    "correct_index": 2,
+    "category": "Technology",
+    "level": "medium"
+  },
+  {
+    "text": "Who created the Python programming language?",
+    "choices": ["Dennis Ritchie", "Guido van Rossum", "James Gosling", "Linus Torvalds"],
+    "correct_index": 1,
+    "category": "Technology",
+    "level": "hard"
+  },
+  {
+    "text": "What is 9 multiplied by 8?",
+    "choices": ["63", "72", "81", "88"],
+    "correct_index": 1,
+    "category": "Math",
+    "level": "easy"
+  },
+  {
+    "text": "What is the square root of 144?",
+    "choices": ["10", "11", "12", "14"],
+    "correct_index": 2,
+    "category": "Math",
+    "level": "medium"
+  },
+  {
+    "text": "What is 2 to the power of 10?",
+    "choices": ["512", "1000", "1024", "2048"],
+    "correct_index": 2,
+    "category": "Math",
+    "level": "hard"
+  },
+  {
+    "text": "Which planet is called the Red Planet?",
+    "choices": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "correct_index": 1,
+    "category": "Science",
+    "level": "easy"
+  },
+  {
+    "text": "What gas do plants absorb from the atmosphere?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correct_index": 2,
+    "category": "Science",
+    "level": "medium"
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "choices": ["Ag", "Au", "Gd", "Go"],
+    "correct_index": 1,
+    "category": "Science",
+    "level": "hard"
+  }
+]
